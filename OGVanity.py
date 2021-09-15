@@ -21,21 +21,6 @@ def vanity():
         if r.status_code == 404:
             print(f'{g}Vanity Available | {x}')
             available.write(f'{x}\n')
-
-
-def threads():
-    codes1=0
-    def start():
-        vanity()
-    while True:
-        if threading.active_count() <= threadcount:
-            threading.Thread(target = start).start()
-            codes1+= 1
-        if codes1 >= len(codes):
-            break
   
 thread = threading.Thread(target=vanity)
 thread.start()
-
-
-
