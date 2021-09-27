@@ -4,7 +4,7 @@ ___________
 
 
 # Showcase👀
-![image](https://cdn.discordapp.com/attachments/884507446150840380/887734508160426035/unknown.png)
+![image](https://cdn.discordapp.com/attachments/887622322217975828/887631005299642418/unknown.png)
 
 
 # Installation🛠️
