@@ -10,7 +10,6 @@ ___________
 # Installation🛠️
 ```bash
 pip install requests
-pip install threading
 pip install colorama
 ```
 
